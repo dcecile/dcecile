@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [@pentagram-lang](https://github.com/pentagram-lang)
-- 🌱 I’m currently learning Rust and WebAssembly
+- 🌱 I’m currently learning Ruby and Vue.js
 - 💬 Ask me anything about Python, SQL, or functional programming
 - 🧶 Hobbies: gardening, baking, rollerblading
 
